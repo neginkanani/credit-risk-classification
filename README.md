@@ -22,6 +22,9 @@ Using the first approach this model was able to acheive an accuracy score of 0.9
 
 
 
+![1](https://user-images.githubusercontent.com/118688095/236684820-2cc8cbef-2c2a-4e42-8e3b-356b913758b4.PNG)
+
+
 In the second approach the counts of 1 and 0 were first reported. Results showed out of 77536 entries in this dataset, 75036 had a value of "0" int he "loan_status" column or 75036 entries are healthy loan. Ont he other hand, only 2500 loans are high risk and are marked by "1" in th e"loan_status" column. This clearly show an imbalances in this dataset. Therefore, I have used 
 
 
